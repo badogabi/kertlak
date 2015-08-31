@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KertLak", "KertLak\KertLak.csproj", "{C1F3DDFA-E9CB-4B04-8CC6-4753B85D38A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedUITests", "CodedUITests\CodedUITests.csproj", "{FDE63356-14A2-4185-B987-F244F55B68FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C1F3DDFA-E9CB-4B04-8CC6-4753B85D38A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1F3DDFA-E9CB-4B04-8CC6-4753B85D38A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1F3DDFA-E9CB-4B04-8CC6-4753B85D38A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE63356-14A2-4185-B987-F244F55B68FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE63356-14A2-4185-B987-F244F55B68FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE63356-14A2-4185-B987-F244F55B68FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE63356-14A2-4185-B987-F244F55B68FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
